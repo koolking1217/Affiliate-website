@@ -9,6 +9,9 @@
 .right-navbar{
     float: right;
 }
+a{
+    background-color: none;
+}
 .navbar{
     background-color: white;
     border-radius: 15px;
