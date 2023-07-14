@@ -1,0 +1,27 @@
+*{
+    background-color: purple;
+    box-sizing: border-box;
+}
+/*.navbar-cover{
+   
+}  */
+/* If float has a value other than none then it will treat that element as block.
+ so inline and inline-block cant be aoplied  */
+.right-navbar{
+    float: right;
+}
+.navbar{
+    background-color: white;
+    border-radius: 15px;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+li[href]{
+    text-decoration: underline;
+    cursor: pointer
+}
