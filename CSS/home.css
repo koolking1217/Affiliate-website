@@ -20,8 +20,3 @@
     align-items: center;
     justify-content: center;
 }
-
-li[href]{
-    text-decoration: underline;
-    cursor: pointer
-}
